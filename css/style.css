@@ -96,7 +96,8 @@ input:focus { border-color: var(--gold); }
 .credits-head { display: flex; align-items: center; gap: 10px; }
 .credits-head h1 { font-family: var(--serif); margin: 0; font-size: 1.6rem; }
 .credits p { margin: 0; }
-.credits-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(150px, 1fr)); gap: 10px; }
+.credits-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(140px, 1fr)); gap: 10px; }
+.credits-grid > * { min-width: 0; }
 .credit {
   background: var(--surface); border: 1px solid var(--line); border-radius: 12px; padding: 0;
   overflow: hidden; text-align: left; display: flex; flex-direction: column;
@@ -159,8 +160,10 @@ input:focus { border-color: var(--gold); }
 .clue q { font-family: var(--serif); font-size: 1.5rem; font-style: italic; line-height: 1.25; }
 .clue-voice { font-family: var(--serif); font-size: 1.15rem; font-style: italic; color: var(--muted); }
 
-.grid { display: grid; grid-template-columns: 1fr 1fr; gap: 12px; }
-@media (min-width: 480px) { .grid { grid-template-columns: repeat(3, 1fr); } }
+/* minmax(0, 1fr): le colonne non si allargano per la dimensione reale delle immagini */
+.grid { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 12px; }
+@media (min-width: 480px) { .grid { grid-template-columns: repeat(3, minmax(0, 1fr)); } }
+.grid > *, .results > * { min-width: 0; }
 .card {
   position: relative; padding: 0; border: 3px solid #f3eee4; border-radius: 12px; overflow: hidden;
   background: var(--surface-2); aspect-ratio: 2 / 3; box-shadow: 0 6px 18px #0007;
@@ -199,10 +202,10 @@ input:focus { border-color: var(--gold); }
 .deltas { list-style: none; margin: 0; padding: 0; display: flex; flex-wrap: wrap; gap: 6px; justify-content: center; }
 .deltas li { background: var(--surface-2); border-radius: 99px; padding: 5px 12px; display: flex; gap: 8px; font-size: .9rem; }
 .deltas b { color: var(--gold); }
-.results { display: grid; grid-template-columns: 1fr 1fr; gap: 12px; }
-@media (min-width: 480px) { .results { grid-template-columns: repeat(3, 1fr); } }
+.results { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 12px; }
+@media (min-width: 480px) { .results { grid-template-columns: repeat(3, minmax(0, 1fr)); } }
 .res-card { display: flex; flex-direction: column; gap: 6px; }
-.res-card .card { width: 100%; }
+.res-card .card { width: 100%; display: block; }
 .res-card.winner .card { border-color: var(--gold); box-shadow: 0 0 0 4px #e3b45c66, 0 8px 22px #0008; }
 .res-owner { font-weight: 800; }
 .winner .res-owner { color: var(--gold); }

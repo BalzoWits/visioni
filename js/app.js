@@ -326,11 +326,12 @@ function viewGame() {
   const target = (r.settings && r.settings.target) || 30;
   const isOver = Math.max(0, ...G.sortedPlayers(r).map((p) => p.score || 0)) >= target;
   const tellerName = esc(playerName(st.tellerUid));
-  const summary = st.allFound
+  const summary = (st.allFound
     ? `L'hanno trovata tutti: troppo facile! ${tellerName} fa 0, gli altri 2.`
     : st.noneFound
       ? `Non l'ha trovata nessuno: troppo difficile! ${tellerName} fa 0, gli altri 2.`
-      : `${tellerName} e chi ha trovato la carta fanno 3 punti.`;
+      : `${tellerName} e chi ha trovato la carta fanno 3 punti.`)
+    + ` <span class="muted">In più, +1 per ogni voto ricevuto dalla propria carta.</span>`;
   const votersOf = (card) => Object.entries(votes).filter(([, v]) => v.card === card).map(([u]) => esc(playerName(u)));
   const cardsHTML = b.map((x, i) => {
     const vs = votersOf(x.card);

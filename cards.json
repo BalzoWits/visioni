@@ -1,0 +1,2412 @@
+[
+    {
+        "id":  1,
+        "file":  "001.jpg",
+        "w":  650,
+        "h":  900,
+        "title":  "Madhumadhavi Ragini, page from a Ragamala Series",
+        "artist":  null,
+        "date":  "c. 1680",
+        "aic":  13111
+    },
+    {
+        "id":  2,
+        "file":  "002.jpg",
+        "w":  843,
+        "h":  740,
+        "title":  "Krishna Fluting for Radha, from the Gitagovinda of Jayadeva",
+        "artist":  null,
+        "date":  "c. 1650",
+        "aic":  13117
+    },
+    {
+        "id":  3,
+        "file":  "003.jpg",
+        "w":  843,
+        "h":  722,
+        "title":  "Krishna\u0027s Fifth and Sixth Avatars, page from a copy of the Gitagovinda of Jayaveda",
+        "artist":  null,
+        "date":  "Late 17th century",
+        "aic":  13120
+    },
+    {
+        "id":  4,
+        "file":  "004.jpg",
+        "w":  843,
+        "h":  646,
+        "title":  "Battle of the Forces of Krishna and Bana, from a copy of the Dispersed Bhagavat Purana",
+        "artist":  null,
+        "date":  "c. 1520–1530",
+        "aic":  14849
+    },
+    {
+        "id":  5,
+        "file":  "005.jpg",
+        "w":  843,
+        "h":  578,
+        "title":  "The Demon Sambar Throws the Infant Pradyumna into the River, page from a Dispersed Bhagavata Purana manuscript",
+        "artist":  null,
+        "date":  "c. 1775",
+        "aic":  46264
+    },
+    {
+        "id":  6,
+        "file":  "006.jpg",
+        "w":  843,
+        "h":  568,
+        "title":  "Rukmini Seeks Krishna\u0027s Permission to Visit her Brother Rukma, page from a Dispersed Bhagavata Purana manuscript",
+        "artist":  null,
+        "date":  "c. 1775",
+        "aic":  46269
+    },
+    {
+        "id":  7,
+        "file":  "007.jpg",
+        "w":  843,
+        "h":  664,
+        "title":  "Prince and Princess Hunting Blackbuck",
+        "artist":  null,
+        "date":  "Mid–18th century",
+        "aic":  52306
+    },
+    {
+        "id":  8,
+        "file":  "008.jpg",
+        "w":  400,
+        "h":  522,
+        "title":  "Krishna and Radha",
+        "artist":  null,
+        "date":  "c. 1745",
+        "aic":  60182
+    },
+    {
+        "id":  9,
+        "file":  "009.jpg",
+        "w":  843,
+        "h":  598,
+        "title":  "Krishna\u0027s Marriage to Kalinda, page from a Dispersed Bhagavata Purana manuscript",
+        "artist":  null,
+        "date":  "c. 1775",
+        "aic":  60237
+    },
+    {
+        "id":  10,
+        "file":  "010.jpg",
+        "w":  400,
+        "h":  545,
+        "title":  "Dhanasri Ragini, Page from a Ragamala Series",
+        "artist":  null,
+        "date":  "c. 17th century",
+        "aic":  62152
+    },
+    {
+        "id":  11,
+        "file":  "011.jpg",
+        "w":  614,
+        "h":  900,
+        "title":  "Portrait of a Ladakhi Mountain Goat",
+        "artist":  null,
+        "date":  "Mughal dynasty (1526-1857), c. 1600",
+        "aic":  76868
+    },
+    {
+        "id":  12,
+        "file":  "012.jpg",
+        "w":  843,
+        "h":  806,
+        "title":  "Trencher with a Scene from Aesop\u0027s Fables",
+        "artist":  null,
+        "date":  "c. 1600",
+        "aic":  87468
+    },
+    {
+        "id":  13,
+        "file":  "013.jpg",
+        "w":  843,
+        "h":  806,
+        "title":  "Trencher with a Scene from Aesop\u0027s Fables",
+        "artist":  null,
+        "date":  "c. 1600",
+        "aic":  87472
+    },
+    {
+        "id":  14,
+        "file":  "014.jpg",
+        "w":  843,
+        "h":  806,
+        "title":  "Trencher with a Scene from Aesop\u0027s Fables",
+        "artist":  null,
+        "date":  "c. 1600",
+        "aic":  87473
+    },
+    {
+        "id":  15,
+        "file":  "015.jpg",
+        "w":  843,
+        "h":  806,
+        "title":  "Trencher with a Scene from Aesop\u0027s Fables",
+        "artist":  null,
+        "date":  "c. 1600",
+        "aic":  87474
+    },
+    {
+        "id":  16,
+        "file":  "016.jpg",
+        "w":  843,
+        "h":  806,
+        "title":  "Trencher with a Scene from Aesop\u0027s Fables",
+        "artist":  null,
+        "date":  "c. 1600",
+        "aic":  87475
+    },
+    {
+        "id":  17,
+        "file":  "017.jpg",
+        "w":  649,
+        "h":  900,
+        "title":  "Krishna Watches a Juggler, from a copy of the Seven Hundred Verses (Sat Sai) of Bihari",
+        "artist":  null,
+        "date":  "c. 1750-1790",
+        "aic":  99362
+    },
+    {
+        "id":  18,
+        "file":  "018.jpg",
+        "w":  643,
+        "h":  900,
+        "title":  "Krishna Fluting for the Gopis",
+        "artist":  null,
+        "date":  "Late 18th or early 19th century",
+        "aic":  131815
+    },
+    {
+        "id":  19,
+        "file":  "019.jpg",
+        "w":  843,
+        "h":  641,
+        "title":  "The Infant Krishna Spirited Away by Vasudev, from a copy of the Dispersed Bhagavat Purana",
+        "artist":  null,
+        "date":  "c. 1520–1530",
+        "aic":  131908
+    },
+    {
+        "id":  20,
+        "file":  "020.jpg",
+        "w":  843,
+        "h":  806,
+        "title":  "Trencher with a Scene from Aesop\u0027s Fables",
+        "artist":  null,
+        "date":  "c. 1600",
+        "aic":  140045
+    },
+    {
+        "id":  21,
+        "file":  "021.jpg",
+        "w":  843,
+        "h":  806,
+        "title":  "Trencher with a Scene from Aesop\u0027s Fables",
+        "artist":  null,
+        "date":  "c. 1600",
+        "aic":  140046
+    },
+    {
+        "id":  22,
+        "file":  "022.jpg",
+        "w":  592,
+        "h":  900,
+        "title":  "Prince Visiting an Ascetic during a Hunt",
+        "artist":  null,
+        "date":  "Mughal dynasty (1526-1857), c. 1625-1650",
+        "aic":  142516
+    },
+    {
+        "id":  23,
+        "file":  "023.jpg",
+        "w":  843,
+        "h":  679,
+        "title":  "Yashoda Chastises Her Foster Son, the Youthful Krishna, page from a manuscript of the Bhagavata Purana",
+        "artist":  null,
+        "date":  "c. 1600",
+        "aic":  191321
+    },
+    {
+        "id":  24,
+        "file":  "024.jpg",
+        "w":  843,
+        "h":  547,
+        "title":  "Poppy Field (Giverny)",
+        "artist":  "Claude Monet",
+        "date":  "1890–91",
+        "aic":  4783
+    },
+    {
+        "id":  25,
+        "file":  "025.jpg",
+        "w":  843,
+        "h":  842,
+        "title":  "Irises",
+        "artist":  "Claude Monet",
+        "date":  "1914–17",
+        "aic":  4887
+    },
+    {
+        "id":  26,
+        "file":  "026.jpg",
+        "w":  843,
+        "h":  675,
+        "title":  "Cliff Walk at Pourville",
+        "artist":  "Claude Monet",
+        "date":  "1882",
+        "aic":  14620
+    },
+    {
+        "id":  27,
+        "file":  "027.jpg",
+        "w":  843,
+        "h":  689,
+        "title":  "Venice, Palazzo Dario",
+        "artist":  "Claude Monet",
+        "date":  "1908",
+        "aic":  14630
+    },
+    {
+        "id":  28,
+        "file":  "028.jpg",
+        "w":  843,
+        "h":  811,
+        "title":  "Vétheuil",
+        "artist":  "Claude Monet",
+        "date":  "1901",
+        "aic":  14634
+    },
+    {
+        "id":  29,
+        "file":  "029.jpg",
+        "w":  843,
+        "h":  593,
+        "title":  "The Customs House at Varengeville",
+        "artist":  "Claude Monet",
+        "date":  "1897",
+        "aic":  16542
+    },
+    {
+        "id":  30,
+        "file":  "030.jpg",
+        "w":  843,
+        "h":  589,
+        "title":  "Charing Cross Bridge, London",
+        "artist":  "Claude Monet",
+        "date":  "1901",
+        "aic":  16544
+    },
+    {
+        "id":  31,
+        "file":  "031.jpg",
+        "w":  843,
+        "h":  688,
+        "title":  "The Artist\u0027s House at Argenteuil",
+        "artist":  "Claude Monet",
+        "date":  "1873",
+        "aic":  16554
+    },
+    {
+        "id":  32,
+        "file":  "032.jpg",
+        "w":  843,
+        "h":  809,
+        "title":  "Water Lilies",
+        "artist":  "Claude Monet",
+        "date":  "1906",
+        "aic":  16568
+    },
+    {
+        "id":  33,
+        "file":  "033.jpg",
+        "w":  843,
+        "h":  632,
+        "title":  "Arrival of the Normandy Train, Gare Saint-Lazare",
+        "artist":  "Claude Monet",
+        "date":  "1877",
+        "aic":  16571
+    },
+    {
+        "id":  34,
+        "file":  "034.jpg",
+        "w":  843,
+        "h":  675,
+        "title":  "Rocks at Port-Goulphar, Belle-Île",
+        "artist":  "Claude Monet",
+        "date":  "1886",
+        "aic":  20545
+    },
+    {
+        "id":  35,
+        "file":  "035.jpg",
+        "w":  843,
+        "h":  498,
+        "title":  "Stacks of Wheat (End of Summer)",
+        "artist":  "Claude Monet",
+        "date":  "1890–91",
+        "aic":  64818
+    },
+    {
+        "id":  36,
+        "file":  "036.jpg",
+        "w":  843,
+        "h":  678,
+        "title":  "Bordighera",
+        "artist":  "Claude Monet",
+        "date":  "1884",
+        "aic":  81537
+    },
+    {
+        "id":  37,
+        "file":  "037.jpg",
+        "w":  843,
+        "h":  593,
+        "title":  "The Petite Creuse River",
+        "artist":  "Claude Monet",
+        "date":  "1889",
+        "aic":  81546
+    },
+    {
+        "id":  38,
+        "file":  "038.jpg",
+        "w":  843,
+        "h":  659,
+        "title":  "Sandvika, Norway",
+        "artist":  "Claude Monet",
+        "date":  "1895",
+        "aic":  86998
+    },
+    {
+        "id":  39,
+        "file":  "039.jpg",
+        "w":  843,
+        "h":  750,
+        "title":  "Water Lily Pond",
+        "artist":  "Claude Monet",
+        "date":  "1900",
+        "aic":  87088
+    },
+    {
+        "id":  40,
+        "file":  "040.jpg",
+        "w":  843,
+        "h":  643,
+        "title":  "Woman (The Sphinx)",
+        "artist":  "Edvard Munch",
+        "date":  "1899",
+        "aic":  17261
+    },
+    {
+        "id":  41,
+        "file":  "041.jpg",
+        "w":  843,
+        "h":  624,
+        "title":  "Man Bathing",
+        "artist":  "Edvard Munch",
+        "date":  "1899",
+        "aic":  17265
+    },
+    {
+        "id":  42,
+        "file":  "042.jpg",
+        "w":  843,
+        "h":  649,
+        "title":  "Boys Bathing",
+        "artist":  "Edvard Munch",
+        "date":  "1899",
+        "aic":  17267
+    },
+    {
+        "id":  43,
+        "file":  "043.jpg",
+        "w":  843,
+        "h":  642,
+        "title":  "Sunbathing I",
+        "artist":  "Edvard Munch",
+        "date":  "1915",
+        "aic":  17315
+    },
+    {
+        "id":  44,
+        "file":  "044.jpg",
+        "w":  843,
+        "h":  753,
+        "title":  "The Vampire II",
+        "artist":  "Edvard Munch",
+        "date":  "1895/1902",
+        "aic":  43301
+    },
+    {
+        "id":  45,
+        "file":  "045.jpg",
+        "w":  634,
+        "h":  900,
+        "title":  "Boys Bathing",
+        "artist":  "Edvard Munch",
+        "date":  "1896",
+        "aic":  59772
+    },
+    {
+        "id":  46,
+        "file":  "046.jpg",
+        "w":  714,
+        "h":  900,
+        "title":  "Neutralia",
+        "artist":  "Edvard Munch",
+        "date":  "1915",
+        "aic":  72685
+    },
+    {
+        "id":  47,
+        "file":  "047.jpg",
+        "w":  714,
+        "h":  900,
+        "title":  "Woman\u0027s Head against the Shore",
+        "artist":  "Edvard Munch",
+        "date":  "1899",
+        "aic":  88396
+    },
+    {
+        "id":  48,
+        "file":  "048.jpg",
+        "w":  600,
+        "h":  900,
+        "title":  "The Girls on the Bridge",
+        "artist":  "Edvard Munch",
+        "date":  "1918",
+        "aic":  88398
+    },
+    {
+        "id":  49,
+        "file":  "049.jpg",
+        "w":  609,
+        "h":  900,
+        "title":  "The Girl by the Window",
+        "artist":  "Edvard Munch",
+        "date":  "1893",
+        "aic":  154235
+    },
+    {
+        "id":  50,
+        "file":  "050.jpg",
+        "w":  653,
+        "h":  900,
+        "title":  "Allegory",
+        "artist":  "Gabriel Jacques de Saint-Aubin",
+        "date":  "1770",
+        "aic":  149040
+    },
+    {
+        "id":  51,
+        "file":  "051.jpg",
+        "w":  843,
+        "h":  526,
+        "title":  "Final Study for \"Bathers at Asnières\"",
+        "artist":  "Georges Seurat",
+        "date":  "1883",
+        "aic":  20199
+    },
+    {
+        "id":  52,
+        "file":  "052.jpg",
+        "w":  843,
+        "h":  516,
+        "title":  "Oil Sketch for \"A Sunday on La Grande Jatte — 1884\"",
+        "artist":  "Georges Seurat",
+        "date":  "1884",
+        "aic":  61616
+    },
+    {
+        "id":  53,
+        "file":  "053.jpg",
+        "w":  780,
+        "h":  900,
+        "title":  "Hercules and the Lernaean Hydra",
+        "artist":  "Gustave Moreau",
+        "date":  "1875–76",
+        "aic":  20579
+    },
+    {
+        "id":  54,
+        "file":  "054.jpg",
+        "w":  664,
+        "h":  900,
+        "title":  "Inspiration",
+        "artist":  "Gustave Moreau",
+        "date":  "c. 1893",
+        "aic":  104463
+    },
+    {
+        "id":  55,
+        "file":  "055.jpg",
+        "w":  843,
+        "h":  746,
+        "title":  "Day Dreams",
+        "artist":  "Helen Hyde",
+        "date":  "1901",
+        "aic":  77585
+    },
+    {
+        "id":  56,
+        "file":  "056.jpg",
+        "w":  843,
+        "h":  590,
+        "title":  "Beach at Cabasson (Baigne-Cul)",
+        "artist":  "Henri Edmond Cross",
+        "date":  "1891–92",
+        "aic":  100476
+    },
+    {
+        "id":  57,
+        "file":  "057.jpg",
+        "w":  680,
+        "h":  900,
+        "title":  "Antibes",
+        "artist":  "Henri Edmond Cross",
+        "date":  "1907",
+        "aic":  186427
+    },
+    {
+        "id":  58,
+        "file":  "058.jpg",
+        "w":  843,
+        "h":  566,
+        "title":  "War",
+        "artist":  "Henri Rousseau",
+        "date":  "1894",
+        "aic":  55796
+    },
+    {
+        "id":  59,
+        "file":  "059.jpg",
+        "w":  843,
+        "h":  453,
+        "title":  "Sawmill, Outskirts of Paris",
+        "artist":  "Henri Rousseau",
+        "date":  "c. 1893/95",
+        "aic":  68433
+    },
+    {
+        "id":  60,
+        "file":  "060.jpg",
+        "w":  742,
+        "h":  900,
+        "title":  "Still Life: Melon, Fish Jar",
+        "artist":  "Imitator of Vincent van Gogh",
+        "date":  "c. 1888",
+        "aic":  27952
+    },
+    {
+        "id":  61,
+        "file":  "061.jpg",
+        "w":  400,
+        "h":  619,
+        "title":  "A Battle Scene from a Shahnama Manuscript",
+        "artist":  "Islamic",
+        "date":  "Safavid dynasty (1521-1722), 16th century",
+        "aic":  57468
+    },
+    {
+        "id":  62,
+        "file":  "062.jpg",
+        "w":  573,
+        "h":  900,
+        "title":  "The Birth of Rustam, page from a copy of the Shahnama of Firdausi",
+        "artist":  "Islamic",
+        "date":  "Safavid dynasty (1501–1722)، dated c.1620",
+        "aic":  70592
+    },
+    {
+        "id":  63,
+        "file":  "063.jpg",
+        "w":  568,
+        "h":  900,
+        "title":  "Zal Climbing to Rudaba, page from a copy of the Shahnama of Firdausi",
+        "artist":  "Islamic",
+        "date":  "Safavid dynasty (1501–1722), dated 1580/90",
+        "aic":  120662
+    },
+    {
+        "id":  64,
+        "file":  "064.jpg",
+        "w":  675,
+        "h":  900,
+        "title":  "Sugawara of the Tsuruya dreaming of Daikoku",
+        "artist":  "Isoda Koryusai",
+        "date":  "c. 1778",
+        "aic":  89102
+    },
+    {
+        "id":  65,
+        "file":  "065.jpg",
+        "w":  843,
+        "h":  688,
+        "title":  "Scene at Lutworth",
+        "artist":  "Joseph Mallord William Turner",
+        "date":  "1870/80",
+        "aic":  115901
+    },
+    {
+        "id":  66,
+        "file":  "066.jpg",
+        "w":  843,
+        "h":  577,
+        "title":  "Castle on Height near Geneva",
+        "artist":  "Joseph Mallord William Turner",
+        "date":  "1836",
+        "aic":  186417
+    },
+    {
+        "id":  67,
+        "file":  "067.jpg",
+        "w":  694,
+        "h":  900,
+        "title":  "The Song of the Lark",
+        "artist":  "Jules Breton",
+        "date":  "1884",
+        "aic":  94841
+    },
+    {
+        "id":  68,
+        "file":  "068.jpg",
+        "w":  683,
+        "h":  900,
+        "title":  "The Warrior Watanabe no Tsuna Fighting the Demon at Rashomon",
+        "artist":  "Katsukawa Shunsho",
+        "date":  "About 1770",
+        "aic":  28302
+    },
+    {
+        "id":  69,
+        "file":  "069.jpg",
+        "w":  818,
+        "h":  900,
+        "title":  "Man Falling Backward, Startled by a Woman\u0027s Ghost over a River",
+        "artist":  "Katsukawa Shunsho",
+        "date":  "c. 1782",
+        "aic":  88324
+    },
+    {
+        "id":  70,
+        "file":  "070.jpg",
+        "w":  610,
+        "h":  900,
+        "title":  "The Ghosts of the Heike Appear in Daimotsu Bay in Settsu Province (Sesshu Daimotsu no ura Heike onryo arawaruru zu)",
+        "artist":  "Katsushika Hokui",
+        "date":  "1847/52",
+        "aic":  197083
+    },
+    {
+        "id":  71,
+        "file":  "071.jpg",
+        "w":  638,
+        "h":  900,
+        "title":  "Nihonbashi, from the series \"Fifty-three Stations of the Tokaido (Tokaido gojusan tsugi)\"",
+        "artist":  "Katsushika Hokusai",
+        "date":  "c. 1806",
+        "aic":  2885
+    },
+    {
+        "id":  72,
+        "file":  "072.jpg",
+        "w":  654,
+        "h":  900,
+        "title":  "Kambara, from the series \"Fifty-three Stations of the Tokaido (Tokaido gojusan tsugi)\"",
+        "artist":  "Katsushika Hokusai",
+        "date":  "c. 1806",
+        "aic":  2918
+    },
+    {
+        "id":  73,
+        "file":  "073.jpg",
+        "w":  650,
+        "h":  900,
+        "title":  "Chiriyu, from the series \"Fifty-three Stations of the Tokaido (Tokaido gojusan tsugi)\"",
+        "artist":  "Katsushika Hokusai",
+        "date":  "c. 1806",
+        "aic":  2997
+    },
+    {
+        "id":  74,
+        "file":  "074.jpg",
+        "w":  843,
+        "h":  571,
+        "title":  "Togetsu Bridge at Arashiyama in Yamashiro Province (Yamashiro Arashiyama no Togetsukyo), from the series \"Unusual Views of Famous Bridges in Various Provinces (Shokoku meikyo kiran)\"",
+        "artist":  "Katsushika Hokusai",
+        "date":  "c. 1833/34",
+        "aic":  3652
+    },
+    {
+        "id":  75,
+        "file":  "075.jpg",
+        "w":  613,
+        "h":  900,
+        "title":  "Yoro Waterfall in Mino Province (Mino no kuni Yoro no taki), from the series Tour of the Waterfalls in Various Provinces (Shokoku Takimeguri)",
+        "artist":  "Katsushika Hokusai",
+        "date":  "c. 1833",
+        "aic":  13255
+    },
+    {
+        "id":  76,
+        "file":  "076.jpg",
+        "w":  843,
+        "h":  572,
+        "title":  "Ejiri in Suruga Province (Sunshu Ejiri), from the series \"Thirty-six Views of Mount Fuji (Fugaku sanjurokkei)\"",
+        "artist":  "Katsushika Hokusai",
+        "date":  "c. 1830/33",
+        "aic":  13272
+    },
+    {
+        "id":  77,
+        "file":  "077.jpg",
+        "w":  843,
+        "h":  583,
+        "title":  "Kajikazawa in Kai Province (Koshu Kajikazawa), from the series \"Thirty-six Views of Mount Fuji (Fugaku sanjurokkei)\"",
+        "artist":  "Katsushika Hokusai",
+        "date":  "c. 1830/33",
+        "aic":  18969
+    },
+    {
+        "id":  78,
+        "file":  "078.jpg",
+        "w":  843,
+        "h":  578,
+        "title":  "Under the Wave off Kanagawa (Kanagawa oki nami ura), also known as The Great Wave, from the series \"Thirty-Six Views of Mount Fuji (Fugaku sanjūrokkei)\"",
+        "artist":  "Katsushika Hokusai",
+        "date":  "1830/33",
+        "aic":  24645
+    },
+    {
+        "id":  79,
+        "file":  "079.jpg",
+        "w":  843,
+        "h":  588,
+        "title":  "Goten Hill at Shinagawa on the Tokaido (Tokaido Shinagawa Gotenyama), from the series \"Thirty-six Views of Mount Fuji (Fugaku sanjurokkei)\"",
+        "artist":  "Katsushika Hokusai",
+        "date":  "c. 1830/33",
+        "aic":  24756
+    },
+    {
+        "id":  80,
+        "file":  "080.jpg",
+        "w":  843,
+        "h":  574,
+        "title":  "Tama River in Musashi Province (Bushu Tamagawa), from the series \"Thirty-six Views of Mount Fuji (Fugaku sanjurokkei)\"",
+        "artist":  "Katsushika Hokusai",
+        "date":  "c. 1830/33",
+        "aic":  24790
+    },
+    {
+        "id":  81,
+        "file":  "081.jpg",
+        "w":  843,
+        "h":  579,
+        "title":  "Chrysanthemum and Horsefly, from an untitled series of Large Flowers",
+        "artist":  "Katsushika Hokusai",
+        "date":  "c. 1831–33",
+        "aic":  25110
+    },
+    {
+        "id":  82,
+        "file":  "082.jpg",
+        "w":  843,
+        "h":  575,
+        "title":  "Hydrangea and Swallow, from an untitled series of large flowers",
+        "artist":  "Katsushika Hokusai",
+        "date":  "c. 1833/34",
+        "aic":  25117
+    },
+    {
+        "id":  83,
+        "file":  "083.jpg",
+        "w":  680,
+        "h":  900,
+        "title":  "The Laughing Demoness (Warai Hannya), from the series \"One Hundred Ghost Tales (Hyaku monogatari)\"",
+        "artist":  "Katsushika Hokusai",
+        "date":  "1831-32",
+        "aic":  47411
+    },
+    {
+        "id":  84,
+        "file":  "084.jpg",
+        "w":  693,
+        "h":  900,
+        "title":  "Memorial Anniversary (Shunen), from the series \"One Hundred Ghost Tales (Hyaku monogatari)\"",
+        "artist":  "Katsushika Hokusai",
+        "date":  "1831-32",
+        "aic":  47417
+    },
+    {
+        "id":  85,
+        "file":  "085.jpg",
+        "w":  843,
+        "h":  569,
+        "title":  "A Mild Breeze on a Fine Day (Gaifu kaisei), from the series \"Thirty-six Views of Mount Fuji (Fugaku sanjurokkei)\"",
+        "artist":  "Katsushika Hokusai",
+        "date":  "c. 1830-33",
+        "aic":  77328
+    },
+    {
+        "id":  86,
+        "file":  "086.jpg",
+        "w":  773,
+        "h":  900,
+        "title":  "Self-Portrait as a Fisherman",
+        "artist":  "Katsushika Hokusai",
+        "date":  "1835",
+        "aic":  81212
+    },
+    {
+        "id":  87,
+        "file":  "087.jpg",
+        "w":  843,
+        "h":  594,
+        "title":  "Tenji Tenno (The Emperor Tenji), first poet in the series One Hundred Poems by One Hundred Poets Explained by the Nurse",
+        "artist":  "Katsushika Hokusai",
+        "date":  "c. 1835/36",
+        "aic":  89508
+    },
+    {
+        "id":  88,
+        "file":  "088.jpg",
+        "w":  843,
+        "h":  582,
+        "title":  "Ariwara no Narihirafrom the series One Hundred Poems Explained by the Nurse (Hyakunin isshu uba ga etoki)",
+        "artist":  "Katsushika Hokusai",
+        "date":  "1835–36",
+        "aic":  89524
+    },
+    {
+        "id":  89,
+        "file":  "089.jpg",
+        "w":  843,
+        "h":  623,
+        "title":  "Whaling off the Coast of the Goto Islands (Goto kujira tsuki), from the series \"One Thousand Pictures of the Ocean (Chie no umi)\"",
+        "artist":  "Katsushika Hokusai",
+        "date":  "c. 1831–33",
+        "aic":  100626
+    },
+    {
+        "id":  90,
+        "file":  "090.jpg",
+        "w":  843,
+        "h":  623,
+        "title":  "Fishing Boats at Choshi in Shimosa (Soshu Choshi) from the series \"One Thousand Pictures of the Ocean (Chie no umi)\"",
+        "artist":  "Katsushika Hokusai",
+        "date":  "c. 1833/34",
+        "aic":  100627
+    },
+    {
+        "id":  91,
+        "file":  "091.jpg",
+        "w":  843,
+        "h":  590,
+        "title":  "Empress Jito (Jito Tenno) from the series \"One Hundred Poems as Explained by the Wet Nurse (Hyakunin isshu uba ga etoki)\"",
+        "artist":  "Katsushika Hokusai",
+        "date":  "c. 1835",
+        "aic":  110779
+    },
+    {
+        "id":  92,
+        "file":  "092.jpg",
+        "w":  843,
+        "h":  570,
+        "title":  "A Perspective View: The Two Deva Kings Gate of Kinryuzan Temple (Ukie: Kinryuzan niomon no zu)",
+        "artist":  "Katsushika Hokusai",
+        "date":  "1781/89",
+        "aic":  149104
+    },
+    {
+        "id":  93,
+        "file":  "093.jpg",
+        "w":  843,
+        "h":  676,
+        "title":  "Standing Screen (Tsuitate) of a Tiger",
+        "artist":  "Kawanabe Kyôsai",
+        "date":  "1878",
+        "aic":  81789
+    },
+    {
+        "id":  94,
+        "file":  "094.jpg",
+        "w":  843,
+        "h":  421,
+        "title":  "May: Shoki the Demon Queller Riding on a Tiger, Subjugating Goblins, from the series \"Of the Twelve Months: the Fifth (Junikagetsu no uchi: gogatsu)\"",
+        "artist":  "Kawanabe Kyôsai",
+        "date":  "1887",
+        "aic":  103334
+    },
+    {
+        "id":  95,
+        "file":  "095.jpg",
+        "w":  843,
+        "h":  445,
+        "title":  "Battle of Nanba (Nanba senki no uchi)",
+        "artist":  "Kawanabe Kyôsai",
+        "date":  "after 1871",
+        "aic":  197080
+    },
+    {
+        "id":  96,
+        "file":  "096.jpg",
+        "w":  603,
+        "h":  900,
+        "title":  "Child\u0027s nightmare of ghosts",
+        "artist":  "Kitagawa Utamaro",
+        "date":  "c. 1800/01",
+        "aic":  149112
+    },
+    {
+        "id":  97,
+        "file":  "097.jpg",
+        "w":  843,
+        "h":  567,
+        "title":  "A pair of ducks by a lotus pond",
+        "artist":  "Kobayashi Kiyochika",
+        "date":  "1879",
+        "aic":  22534
+    },
+    {
+        "id":  98,
+        "file":  "098.jpg",
+        "w":  606,
+        "h":  900,
+        "title":  "The Moon Beyond Shinagawa (Shinagawa mikoshi no tsuki), from the series \"One Hundred Views of Musashi Province (Musashi hyakkei no uchi)\"",
+        "artist":  "Kobayashi Kiyochika",
+        "date":  "1884",
+        "aic":  22832
+    },
+    {
+        "id":  99,
+        "file":  "099.jpg",
+        "w":  843,
+        "h":  579,
+        "title":  "Outbreak of Fire Seen from Hisamatsucho (Hisamatsucho nite miru shukka)",
+        "artist":  "Kobayashi Kiyochika",
+        "date":  "1881",
+        "aic":  150410
+    },
+    {
+        "id":  100,
+        "file":  "100.jpg",
+        "w":  843,
+        "h":  443,
+        "title":  "Sei Shonagon, from the series Ancient Patterns (Kodai moyo)",
+        "artist":  "Kobayashi Kiyochika",
+        "date":  "Meiji period (1896–1912), 1896",
+        "aic":  150411
+    },
+    {
+        "id":  101,
+        "file":  "101.jpg",
+        "w":  657,
+        "h":  900,
+        "title":  "Distant View of Matsuchi Hill from the Sumida River (Sumidagawa yori Matsuchiyama enkei),  from the series \"One Hundred Views of Musashi Province (Musashi hyakkei no uchi)\"",
+        "artist":  "Kobayashi Kiyochika",
+        "date":  "1884",
+        "aic":  154250
+    },
+    {
+        "id":  102,
+        "file":  "102.jpg",
+        "w":  843,
+        "h":  426,
+        "title":  "Escape of Emperor Godaigo, from the series \"The Unofficial History of Japan (Nihon gaishi no uchi)\"",
+        "artist":  "Kobayashi Kiyochika",
+        "date":  "1885",
+        "aic":  223507
+    },
+    {
+        "id":  103,
+        "file":  "103.jpg",
+        "w":  843,
+        "h":  631,
+        "title":  "The Naval Battle of Pungdo in Korea (Chosen Hoto kaisen no zu)",
+        "artist":  "Kobayashi Kiyochika",
+        "date":  "1894",
+        "aic":  223513
+    },
+    {
+        "id":  104,
+        "file":  "104.jpg",
+        "w":  843,
+        "h":  453,
+        "title":  "Major General Odera Fighting Fiercely at the Hundred Foot Cliff in Weihaiwei (Ikaiei hyakusekigaisho ni Odera shosho funsen su)",
+        "artist":  "Kobayashi Kiyochika",
+        "date":  "1895",
+        "aic":  223538
+    },
+    {
+        "id":  105,
+        "file":  "105.jpg",
+        "w":  843,
+        "h":  448,
+        "title":  "Third Illustration of the Great Victory of Our Forces on the Yellow Sea (Kokai ni okeru wagagun no taisho, dai san zu)",
+        "artist":  "Kobayashi Kiyochika",
+        "date":  "1894",
+        "aic":  223542
+    },
+    {
+        "id":  106,
+        "file":  "106.jpg",
+        "w":  676,
+        "h":  900,
+        "title":  "Dreaming of the Heron Maiden",
+        "artist":  "Komai Yoshinobu",
+        "date":  "c. 1771",
+        "aic":  86449
+    },
+    {
+        "id":  107,
+        "file":  "107.jpg",
+        "w":  793,
+        "h":  900,
+        "title":  "Courtesan Dreaming of Procession",
+        "artist":  "Kubo Shunman",
+        "date":  "1814",
+        "aic":  81382
+    },
+    {
+        "id":  108,
+        "file":  "108.jpg",
+        "w":  843,
+        "h":  871,
+        "title":  "Abundantia from The Four Continents and Related Allegories",
+        "artist":  "Lodewijk van Schoor",
+        "date":  "c. 1680/1700",
+        "aic":  14696
+    },
+    {
+        "id":  109,
+        "file":  "109.jpg",
+        "w":  593,
+        "h":  900,
+        "title":  "The Child\u0027s Bath",
+        "artist":  "Mary Cassatt",
+        "date":  "1893",
+        "aic":  111442
+    },
+    {
+        "id":  110,
+        "file":  "110.jpg",
+        "w":  843,
+        "h":  489,
+        "title":  "The Dream of Saint Jerome",
+        "artist":  "Matteo di Giovanni",
+        "date":  "1476",
+        "aic":  16179
+    },
+    {
+        "id":  111,
+        "file":  "111.jpg",
+        "w":  690,
+        "h":  900,
+        "title":  "Attitudes are Easy and Chaste, plate two from Love",
+        "artist":  "Maurice Denis",
+        "date":  "1898, published 1899",
+        "aic":  117210
+    },
+    {
+        "id":  112,
+        "file":  "112.jpg",
+        "w":  689,
+        "h":  900,
+        "title":  "On the Pale Silver Sofa, plate ten from Love",
+        "artist":  "Maurice Denis",
+        "date":  "1898, published 1899",
+        "aic":  117212
+    },
+    {
+        "id":  113,
+        "file":  "113.jpg",
+        "w":  843,
+        "h":  647,
+        "title":  "Our Souls, in Languorous Gestures, plate nine from Love",
+        "artist":  "Maurice Denis",
+        "date":  "1898, published 1899",
+        "aic":  117213
+    },
+    {
+        "id":  114,
+        "file":  "114.jpg",
+        "w":  573,
+        "h":  900,
+        "title":  "The Dream of Paris",
+        "artist":  "Monogrammist PG",
+        "date":  "1536",
+        "aic":  58702
+    },
+    {
+        "id":  115,
+        "file":  "115.jpg",
+        "w":  574,
+        "h":  900,
+        "title":  "Portrait of Prince Azam Shah",
+        "artist":  "Mughal",
+        "date":  "Late 17th/early 18th century",
+        "aic":  28290
+    },
+    {
+        "id":  116,
+        "file":  "116.jpg",
+        "w":  638,
+        "h":  900,
+        "title":  "A Procession Scene with Musicians, from a copy of the Padshanama",
+        "artist":  "Mughal",
+        "date":  "c. 1650",
+        "aic":  49336
+    },
+    {
+        "id":  117,
+        "file":  "117.jpg",
+        "w":  614,
+        "h":  900,
+        "title":  "Prince Riding in Chariot Drawn by Goats",
+        "artist":  "Mughal",
+        "date":  "c. 1585",
+        "aic":  76879
+    },
+    {
+        "id":  118,
+        "file":  "118.jpg",
+        "w":  843,
+        "h":  581,
+        "title":  "Seduction Scene on a Terrace by Moonlight",
+        "artist":  "Mughal",
+        "date":  "18th century",
+        "aic":  120669
+    },
+    {
+        "id":  119,
+        "file":  "119.jpg",
+        "w":  622,
+        "h":  900,
+        "title":  "Lovers in a Zenana Garden at Night",
+        "artist":  "Mughal",
+        "date":  "17th/18th century",
+        "aic":  131915
+    },
+    {
+        "id":  120,
+        "file":  "120.jpg",
+        "w":  616,
+        "h":  900,
+        "title":  "Kichik Beg Wounded during Babur\u0027s Attack on Qalat, from a copy of the Baburnama (Book of Babur)",
+        "artist":  "Mughal",
+        "date":  "c. 1590",
+        "aic":  140588
+    },
+    {
+        "id":  121,
+        "file":  "121.jpg",
+        "w":  400,
+        "h":  574,
+        "title":  "Ophelia",
+        "artist":  "Odilon Redon",
+        "date":  "1906",
+        "aic":  45406
+    },
+    {
+        "id":  122,
+        "file":  "122.jpg",
+        "w":  642,
+        "h":  900,
+        "title":  "The Beacon",
+        "artist":  "Odilon Redon",
+        "date":  "1883, reworked c. 1893",
+        "aic":  45408
+    },
+    {
+        "id":  123,
+        "file":  "123.jpg",
+        "w":  606,
+        "h":  900,
+        "title":  "Portrait of Ari Redon",
+        "artist":  "Odilon Redon",
+        "date":  "c. 1898",
+        "aic":  68418
+    },
+    {
+        "id":  124,
+        "file":  "124.jpg",
+        "w":  843,
+        "h":  699,
+        "title":  "Flower Clouds",
+        "artist":  "Odilon Redon",
+        "date":  "c. 1903",
+        "aic":  76395
+    },
+    {
+        "id":  125,
+        "file":  "125.jpg",
+        "w":  644,
+        "h":  900,
+        "title":  "Sita",
+        "artist":  "Odilon Redon",
+        "date":  "c. 1893",
+        "aic":  80594
+    },
+    {
+        "id":  126,
+        "file":  "126.jpg",
+        "w":  843,
+        "h":  670,
+        "title":  "Flowers: Poppies and Daisies",
+        "artist":  "Odilon Redon",
+        "date":  "c. 1867",
+        "aic":  94240
+    },
+    {
+        "id":  127,
+        "file":  "127.jpg",
+        "w":  843,
+        "h":  870,
+        "title":  "Melancholy",
+        "artist":  "Odilon Redon",
+        "date":  "1876",
+        "aic":  96841
+    },
+    {
+        "id":  128,
+        "file":  "128.jpg",
+        "w":  616,
+        "h":  900,
+        "title":  "Still Life with Flowers",
+        "artist":  "Odilon Redon",
+        "date":  "1905",
+        "aic":  110982
+    },
+    {
+        "id":  129,
+        "file":  "129.jpg",
+        "w":  451,
+        "h":  900,
+        "title":  "Shoki the Demon Queller Sharpening His Sword",
+        "artist":  "Okumura Masanobu",
+        "date":  "c. 1725",
+        "aic":  44164
+    },
+    {
+        "id":  130,
+        "file":  "130.jpg",
+        "w":  400,
+        "h":  531,
+        "title":  "Three princes at audience before a King and Queen, page from a Bhagavata Purana",
+        "artist":  "Pahari-Basohli School",
+        "date":  "c.1700–1725",
+        "aic":  104466
+    },
+    {
+        "id":  131,
+        "file":  "131.jpg",
+        "w":  678,
+        "h":  900,
+        "title":  "Two Tahitian Women in a Landscape",
+        "artist":  "Paul Gauguin",
+        "date":  "c. 1892",
+        "aic":  5513
+    },
+    {
+        "id":  132,
+        "file":  "132.jpg",
+        "w":  843,
+        "h":  617,
+        "title":  "No te aha oe riri (Why Are You Angry?)",
+        "artist":  "Paul Gauguin",
+        "date":  "1896",
+        "aic":  16496
+    },
+    {
+        "id":  133,
+        "file":  "133.jpg",
+        "w":  843,
+        "h":  667,
+        "title":  "Arlésiennes (Mistral)",
+        "artist":  "Paul Gauguin",
+        "date":  "1888",
+        "aic":  19339
+    },
+    {
+        "id":  134,
+        "file":  "134.jpg",
+        "w":  843,
+        "h":  629,
+        "title":  "Mahana no atua (Day of the God)",
+        "artist":  "Paul Gauguin",
+        "date":  "1894",
+        "aic":  27943
+    },
+    {
+        "id":  135,
+        "file":  "135.jpg",
+        "w":  683,
+        "h":  900,
+        "title":  "Polynesian Woman with Children",
+        "artist":  "Paul Gauguin",
+        "date":  "1901",
+        "aic":  34461
+    },
+    {
+        "id":  136,
+        "file":  "136.jpg",
+        "w":  633,
+        "h":  900,
+        "title":  "Merahi metua no Tehamana (Tehamana Has Many Parents or The Ancestors of Tehamana)",
+        "artist":  "Paul Gauguin",
+        "date":  "1893",
+        "aic":  60812
+    },
+    {
+        "id":  137,
+        "file":  "137.jpg",
+        "w":  528,
+        "h":  900,
+        "title":  "Still Life with Cat",
+        "artist":  "Paul Gauguin",
+        "date":  "c. 1899",
+        "aic":  62735
+    },
+    {
+        "id":  138,
+        "file":  "138.jpg",
+        "w":  843,
+        "h":  665,
+        "title":  "Te raau rahi (The Big Tree)",
+        "artist":  "Paul Gauguin",
+        "date":  "1891",
+        "aic":  111062
+    },
+    {
+        "id":  139,
+        "file":  "139.jpg",
+        "w":  690,
+        "h":  900,
+        "title":  "Portrait of the Artist’s Mother (Eve)",
+        "artist":  "Paul Gauguin",
+        "date":  "1889/90",
+        "aic":  159069
+    },
+    {
+        "id":  140,
+        "file":  "140.jpg",
+        "w":  843,
+        "h":  436,
+        "title":  "Design for a Fan Featuring a Landscape and a Statue of the Goddess Hina",
+        "artist":  "Paul Gauguin",
+        "date":  "1900/03",
+        "aic":  159070
+    },
+    {
+        "id":  141,
+        "file":  "141.jpg",
+        "w":  843,
+        "h":  564,
+        "title":  "Tahitian Hut",
+        "artist":  "Paul Gauguin",
+        "date":  "1891/93",
+        "aic":  159071
+    },
+    {
+        "id":  142,
+        "file":  "142.jpg",
+        "w":  843,
+        "h":  705,
+        "title":  "Aha oe feii? (What! Are You Jealous?)",
+        "artist":  "Paul Gauguin",
+        "date":  "1894",
+        "aic":  159081
+    },
+    {
+        "id":  143,
+        "file":  "143.jpg",
+        "w":  843,
+        "h":  741,
+        "title":  "Tahitian Landscape",
+        "artist":  "Paul Gauguin",
+        "date":  "1894",
+        "aic":  159083
+    },
+    {
+        "id":  144,
+        "file":  "144.jpg",
+        "w":  843,
+        "h":  643,
+        "title":  "The Andelys",
+        "artist":  "Paul Signac",
+        "date":  "1895",
+        "aic":  3389
+    },
+    {
+        "id":  145,
+        "file":  "145.jpg",
+        "w":  843,
+        "h":  597,
+        "title":  "The Port of St. Tropez II, from the seventh album of L\u0027Estampe originale",
+        "artist":  "Paul Signac",
+        "date":  "1894",
+        "aic":  12267
+    },
+    {
+        "id":  146,
+        "file":  "146.jpg",
+        "w":  843,
+        "h":  577,
+        "title":  "Notre Dame",
+        "artist":  "Paul Signac",
+        "date":  "1910",
+        "aic":  66033
+    },
+    {
+        "id":  147,
+        "file":  "147.jpg",
+        "w":  843,
+        "h":  725,
+        "title":  "Chromatic Circle",
+        "artist":  "Paul Signac",
+        "date":  "1888",
+        "aic":  104912
+    },
+    {
+        "id":  148,
+        "file":  "148.jpg",
+        "w":  843,
+        "h":  551,
+        "title":  "Les Andelys, Côte d\u0027Aval",
+        "artist":  "Paul Signac",
+        "date":  "1886",
+        "aic":  122130
+    },
+    {
+        "id":  149,
+        "file":  "149.jpg",
+        "w":  843,
+        "h":  616,
+        "title":  "In Times of Harmony",
+        "artist":  "Paul Signac",
+        "date":  "1895–96",
+        "aic":  135446
+    },
+    {
+        "id":  150,
+        "file":  "150.jpg",
+        "w":  709,
+        "h":  900,
+        "title":  "Fisherman\u0027s Family",
+        "artist":  "Pierre Puvis de Chavannes",
+        "date":  "c. 1883",
+        "aic":  46212
+    },
+    {
+        "id":  151,
+        "file":  "151.jpg",
+        "w":  766,
+        "h":  900,
+        "title":  "The Fisherman\u0027s Family",
+        "artist":  "Pierre Puvis de Chavannes",
+        "date":  "1887",
+        "aic":  71191
+    },
+    {
+        "id":  152,
+        "file":  "152.jpg",
+        "w":  725,
+        "h":  900,
+        "title":  "Two Sisters (On the Terrace)",
+        "artist":  "Pierre-Auguste Renoir",
+        "date":  "1881",
+        "aic":  14655
+    },
+    {
+        "id":  153,
+        "file":  "153.jpg",
+        "w":  697,
+        "h":  900,
+        "title":  "Cupid\u0027s Hunting Fields",
+        "artist":  "Sir Edward Burne-Jones",
+        "date":  "1885",
+        "aic":  12977
+    },
+    {
+        "id":  154,
+        "file":  "154.jpg",
+        "w":  515,
+        "h":  900,
+        "title":  "Pomona",
+        "artist":  "Sir Edward Burne-Jones",
+        "date":  "Figure design 1882, background design 1898, made 1906",
+        "aic":  76634
+    },
+    {
+        "id":  155,
+        "file":  "155.jpg",
+        "w":  681,
+        "h":  900,
+        "title":  "Fun\u0027ya no Yasuhide, from the series \"Allegory of the Six Poets (Furyu rokkasen)\"",
+        "artist":  "Suzuki Harunobu",
+        "date":  "c. 1768",
+        "aic":  21015
+    },
+    {
+        "id":  156,
+        "file":  "156.jpg",
+        "w":  773,
+        "h":  900,
+        "title":  "Ono no Tofu, from the series \"A Gathering of the Elders of Poetry (Shoshikai bantsuzuki)\"",
+        "artist":  "Totoya Hokkei",
+        "date":  "c. 1820",
+        "aic":  23589
+    },
+    {
+        "id":  157,
+        "file":  "157.jpg",
+        "w":  773,
+        "h":  900,
+        "title":  "Goat beneath a plum tree",
+        "artist":  "Totoya Hokkei",
+        "date":  "n.d.",
+        "aic":  23622
+    },
+    {
+        "id":  158,
+        "file":  "158.jpg",
+        "w":  843,
+        "h":  633,
+        "title":  "A Mountainous Landscape with a Stream",
+        "artist":  "Totoya Hokkei",
+        "date":  "1827",
+        "aic":  23773
+    },
+    {
+        "id":  159,
+        "file":  "159.jpg",
+        "w":  843,
+        "h":  481,
+        "title":  "Oniwakamaru subduing the giant carp",
+        "artist":  "Totoya Hokkei",
+        "date":  "c. 1830/35",
+        "aic":  24889
+    },
+    {
+        "id":  160,
+        "file":  "160.jpg",
+        "w":  645,
+        "h":  900,
+        "title":  "Illustration of a Chinese poem, from the series \"Picture Book of Chinese Poems (Toshi gafu no uchi)\"",
+        "artist":  "Totoya Hokkei",
+        "date":  "c. 1830/44",
+        "aic":  26343
+    },
+    {
+        "id":  161,
+        "file":  "161.jpg",
+        "w":  782,
+        "h":  900,
+        "title":  "Sarutahiko, No. 2 (Sono ni) from the series \"The Boulder Door of Spring (Haru no iwato)\"",
+        "artist":  "Totoya Hokkei",
+        "date":  "1820s",
+        "aic":  34405
+    },
+    {
+        "id":  162,
+        "file":  "162.jpg",
+        "w":  815,
+        "h":  900,
+        "title":  "Dragon in the clouds",
+        "artist":  "Totoya Hokkei",
+        "date":  "1832",
+        "aic":  36318
+    },
+    {
+        "id":  163,
+        "file":  "163.jpg",
+        "w":  786,
+        "h":  900,
+        "title":  "Shinto priest performing the seaweed-gathering ritual",
+        "artist":  "Totoya Hokkei",
+        "date":  "early 1830s",
+        "aic":  36447
+    },
+    {
+        "id":  164,
+        "file":  "164.jpg",
+        "w":  843,
+        "h":  383,
+        "title":  "The Seaweed-gathering Ritual in Nagato Province (Nagato mekari no shinji), from the series \"Famous Places in the Provinces (Shokoku meisho)\"",
+        "artist":  "Totoya Hokkei",
+        "date":  "c. 1834/35",
+        "aic":  40570
+    },
+    {
+        "id":  165,
+        "file":  "165.jpg",
+        "w":  767,
+        "h":  900,
+        "title":  "Courtesan watching foreign ship from balcony",
+        "artist":  "Totoya Hokkei",
+        "date":  "c. 1818/44",
+        "aic":  81073
+    },
+    {
+        "id":  166,
+        "file":  "166.jpg",
+        "w":  761,
+        "h":  900,
+        "title":  "Benzaiten appearing to Taira no Kiyomori",
+        "artist":  "Totoya Hokkei",
+        "date":  "n.d.",
+        "aic":  81075
+    },
+    {
+        "id":  167,
+        "file":  "167.jpg",
+        "w":  773,
+        "h":  900,
+        "title":  "Water: Zhang Shun (Mizu, Chojun), from the series \"The Five Elements of The Water Margin (Suiko gogyo)\"",
+        "artist":  "Totoya Hokkei",
+        "date":  "early 1830s",
+        "aic":  81116
+    },
+    {
+        "id":  168,
+        "file":  "168.jpg",
+        "w":  800,
+        "h":  900,
+        "title":  "Yu the Great battling a dragon",
+        "artist":  "Totoya Hokkei",
+        "date":  "late 1820s",
+        "aic":  81131
+    },
+    {
+        "id":  169,
+        "file":  "169.jpg",
+        "w":  773,
+        "h":  900,
+        "title":  "Matsushima: Shunzei, No. 1 from \"Three Famous Scenes (Sankei no uchi: Sono ichi)\"",
+        "artist":  "Totoya Hokkei",
+        "date":  "c. 1833",
+        "aic":  81448
+    },
+    {
+        "id":  170,
+        "file":  "170.jpg",
+        "w":  752,
+        "h":  900,
+        "title":  "Cat Playing with a Toy Butterfly, from the series \"Thirty-six Pictures of Birds (Sanjuroku kinzoku)\"",
+        "artist":  "Totoya Hokkei",
+        "date":  "1828",
+        "aic":  81469
+    },
+    {
+        "id":  171,
+        "file":  "171.jpg",
+        "w":  843,
+        "h":  566,
+        "title":  "Autumn Maples at Takinogawa River, from the album \"The Eternal Waterfall (Tokiwa no taki)\"",
+        "artist":  "Totoya Hokkei",
+        "date":  "1833",
+        "aic":  81767
+    },
+    {
+        "id":  172,
+        "file":  "172.jpg",
+        "w":  640,
+        "h":  900,
+        "title":  "Crossing the Yellow River, from the series \"Picture Book of Chinese Poems (Toshi gafu no uchi)\"",
+        "artist":  "Totoya Hokkei",
+        "date":  "c. 1830/44",
+        "aic":  89544
+    },
+    {
+        "id":  173,
+        "file":  "173.jpg",
+        "w":  644,
+        "h":  900,
+        "title":  "Clear autumn sky over a mountain temple, from the series \"Picture Book of Chinese Poems (Toshi gafu no uchi)\"",
+        "artist":  "Totoya Hokkei",
+        "date":  "c. 1830/44",
+        "aic":  89547
+    },
+    {
+        "id":  174,
+        "file":  "174.jpg",
+        "w":  624,
+        "h":  900,
+        "title":  "The Actor Onoe Kikugoro as the Ghost of Koyo Hoshi",
+        "artist":  "Toyohara Kunichika",
+        "date":  "19th century",
+        "aic":  23760
+    },
+    {
+        "id":  175,
+        "file":  "175.jpg",
+        "w":  621,
+        "h":  900,
+        "title":  "In The Mood for a Walk (Yuho ga shitaso), from the series \"Thirty-two Aspects of Women (Fuzoku sanjuniso)\"",
+        "artist":  "Tsukioka Yoshitoshi",
+        "date":  "1888",
+        "aic":  28971
+    },
+    {
+        "id":  176,
+        "file":  "176.jpg",
+        "w":  843,
+        "h":  629,
+        "title":  "Urashima Taro Returning Home from the Palace of the Dragon King (Urashima Taro no ko kikoku ju Ryugujo no zu)",
+        "artist":  "Tsukioka Yoshitoshi",
+        "date":  "1886",
+        "aic":  53877
+    },
+    {
+        "id":  177,
+        "file":  "177.jpg",
+        "w":  621,
+        "h":  900,
+        "title":  "A Cauldron on a Moonlit Night (Tsukiyo no kama), from the series \"One Hundred Aspects of the Moon (Tsuki hyakushi)\"",
+        "artist":  "Tsukioka Yoshitoshi",
+        "date":  "1886",
+        "aic":  89740
+    },
+    {
+        "id":  178,
+        "file":  "178.jpg",
+        "w":  621,
+        "h":  900,
+        "title":  "Moon of Enlightenment (Godo no tsuki), from the series \"One Hundred Aspects of the Moon (Tsuki hyakushi)\"",
+        "artist":  "Tsukioka Yoshitoshi",
+        "date":  "1881",
+        "aic":  102075
+    },
+    {
+        "id":  179,
+        "file":  "179.jpg",
+        "w":  606,
+        "h":  900,
+        "title":  "The Actor Ichikawa Sadanji as Akechi Samenosuke, from the series \"Seven Brilliant Heroes (Komei shichi yosei)\"",
+        "artist":  "Tsukioka Yoshitoshi",
+        "date":  "1876",
+        "aic":  102076
+    },
+    {
+        "id":  180,
+        "file":  "180.jpg",
+        "w":  602,
+        "h":  900,
+        "title":  "General Tamichi, from the series A Mirror of Famous Japanese Generals",
+        "artist":  "Tsukioka Yoshitoshi",
+        "date":  "1880",
+        "aic":  102077
+    },
+    {
+        "id":  181,
+        "file":  "181.jpg",
+        "w":  620,
+        "h":  900,
+        "title":  "Slovenly (Shidaranasaso), from the series \"Thirty-two Aspects of Women (Fuzoku sanjuniso)\"",
+        "artist":  "Tsukioka Yoshitoshi",
+        "date":  "1888",
+        "aic":  150413
+    },
+    {
+        "id":  182,
+        "file":  "182.jpg",
+        "w":  621,
+        "h":  900,
+        "title":  "Delighted (Ureshiso), from the series \"Thirty-two Aspects of Women (Fuzoku sanjuniso)\"",
+        "artist":  "Tsukioka Yoshitoshi",
+        "date":  "1888",
+        "aic":  152844
+    },
+    {
+        "id":  183,
+        "file":  "183.jpg",
+        "w":  624,
+        "h":  900,
+        "title":  "Oniwakamaru Observing the Great Carp in the Pond, from the series \"New Forms of Thirty-Six Ghosts\"",
+        "artist":  "Tsukioka Yoshitoshi",
+        "date":  "1889",
+        "aic":  196861
+    },
+    {
+        "id":  184,
+        "file":  "184.jpg",
+        "w":  623,
+        "h":  900,
+        "title":  "Omori Hikoshichi from the series “New Forms of the Thirty-Six Ghosts”",
+        "artist":  "Tsukioka Yoshitoshi",
+        "date":  "1889",
+        "aic":  196862
+    },
+    {
+        "id":  185,
+        "file":  "185.jpg",
+        "w":  619,
+        "h":  900,
+        "title":  "Gamo Sadahide\u0027s Servant, Toki Motosada, Hurling a Demon King to the Ground at Mount Inahana, from the series \"New Forms of Thirty-Six Ghosts (Shinkei sanjuroku kaisen)\"",
+        "artist":  "Tsukioka Yoshitoshi",
+        "date":  "1890",
+        "aic":  196865
+    },
+    {
+        "id":  186,
+        "file":  "186.jpg",
+        "w":  617,
+        "h":  900,
+        "title":  "Supernatural Beings at Shirazunoyabu in Yawata",
+        "artist":  "Tsukioka Yoshitoshi",
+        "date":  "1881",
+        "aic":  196866
+    },
+    {
+        "id":  187,
+        "file":  "187.jpg",
+        "w":  621,
+        "h":  900,
+        "title":  "Heron Maiden from the series \"New Forms of Thirty-Six Ghosts\"",
+        "artist":  "Tsukioka Yoshitoshi",
+        "date":  "1889",
+        "aic":  196867
+    },
+    {
+        "id":  188,
+        "file":  "188.jpg",
+        "w":  627,
+        "h":  900,
+        "title":  "The Old Badger from the series \"New Forms of Thirty-Six Ghosts\"",
+        "artist":  "Tsukioka Yoshitoshi",
+        "date":  "1889",
+        "aic":  196868
+    },
+    {
+        "id":  189,
+        "file":  "189.jpg",
+        "w":  624,
+        "h":  900,
+        "title":  "Moon and Smoke (Enchu no tsuki), from the series \"One Hundred Aspects of the Moon (Tsuki hyaku sugata)\"",
+        "artist":  "Tsukioka Yoshitoshi",
+        "date":  "1886",
+        "aic":  197414
+    },
+    {
+        "id":  190,
+        "file":  "190.jpg",
+        "w":  843,
+        "h":  634,
+        "title":  "The Moon over Gojo Bridge (Gojo no tsuki), from the series \"Heroes for the Snow, Moon, and Flowers (Buyu setsugekka)\"",
+        "artist":  "Tsukioka Yoshitoshi",
+        "date":  "1867",
+        "aic":  223512
+    },
+    {
+        "id":  191,
+        "file":  "191.jpg",
+        "w":  843,
+        "h":  617,
+        "title":  "Maisaka: The Ferry at Imagiri (Maisaka, Imagiri funawatashi), from the series \"Fifty-three Stations of the Tokaido (Tokaido gojusan tsugi),\" also known as the Tokaido with Poem (Kyoka iri Tokaido)",
+        "artist":  "Utagawa Hiroshige",
+        "date":  "c. 1837/42",
+        "aic":  4374
+    },
+    {
+        "id":  192,
+        "file":  "192.jpg",
+        "w":  843,
+        "h":  629,
+        "title":  "Goyu, from the series \"Fifty-three Stations of the Tokaido (Tokaido gojusan tsugi),\" also known as the Tokaido with Poem (Kyoka iri Tokaido)",
+        "artist":  "Utagawa Hiroshige",
+        "date":  "c. 1837/42",
+        "aic":  4390
+    },
+    {
+        "id":  193,
+        "file":  "193.jpg",
+        "w":  843,
+        "h":  620,
+        "title":  "Akasaka, from the series \"Fifty-three Stations of the Tokaido (Tokaido gojusan tsugi),\" also known as the Tokaido with Poem (Kyoka iri Tokaido)",
+        "artist":  "Utagawa Hiroshige",
+        "date":  "c. 1837/42",
+        "aic":  4394
+    },
+    {
+        "id":  194,
+        "file":  "194.jpg",
+        "w":  843,
+        "h":  536,
+        "title":  "No. 32: Seba, from the series \"Sixty-nine Stations of the Kisokaido (Kisokaido rokujukyu tsugi no uchi)\"",
+        "artist":  "Utagawa Hiroshige",
+        "date":  "c. 1835/38",
+        "aic":  11054
+    },
+    {
+        "id":  195,
+        "file":  "195.jpg",
+        "w":  612,
+        "h":  900,
+        "title":  "Bingo Province: Kannon Temple at Abuto (Bingo, Abuto, Kannondo), from the series \"Famous Places in the Sixty-odd Provinces (Rokujuyoshu meisho zue)\"",
+        "artist":  "Utagawa Hiroshige",
+        "date":  "1853",
+        "aic":  13154
+    },
+    {
+        "id":  196,
+        "file":  "196.jpg",
+        "w":  606,
+        "h":  900,
+        "title":  "Hilltop View from Yushima Tenjin Shrine (Yushima Tenjin sakaue tenbo), from the series \"One Hundred Famous Views of Edo (Meisho Edo hyakkei)\"",
+        "artist":  "Utagawa Hiroshige",
+        "date":  "1856",
+        "aic":  13171
+    },
+    {
+        "id":  197,
+        "file":  "197.jpg",
+        "w":  598,
+        "h":  900,
+        "title":  "Fox Fires on New Year\u0027s Eve at the Changing Tree in Oji (Oji shozoku enoki omisoka no kitsunebi), from the series \"One Hundred Famous Views of Edo (Meisho Edo hyakkei)\"",
+        "artist":  "Utagawa Hiroshige",
+        "date":  "1857",
+        "aic":  13183
+    },
+    {
+        "id":  198,
+        "file":  "198.jpg",
+        "w":  843,
+        "h":  561,
+        "title":  "Okabe: Utsu Mountain (Okabe, Utsu no yama), from the series \"Fifty-three Stations of the Tokaido Road (Tokaido gojusan tsugi no uchi),\" also known as the Hoeido Tokaido",
+        "artist":  "Utagawa Hiroshige",
+        "date":  "c. 1833/34",
+        "aic":  18260
+    },
+    {
+        "id":  199,
+        "file":  "199.jpg",
+        "w":  843,
+        "h":  545,
+        "title":  "Okitsu: Kiyomigaseki and Seiken Temple (Kiyomigaseki, Seikenji)—No. 18, from the series \"Fifty-three Stations of the Tokaido (Tokaido gojusan tsugi),\" also known as the Reisho Tokaido",
+        "artist":  "Utagawa Hiroshige",
+        "date":  "c. 1847/52",
+        "aic":  18292
+    },
+    {
+        "id":  200,
+        "file":  "200.jpg",
+        "w":  843,
+        "h":  563,
+        "title":  "Shirasuka: Shiomi Slope,no. 33 from the series Fifty-Three Stations of the Tokaido (Tōkaidō gojūsan tsugi)",
+        "artist":  "Utagawa Hiroshige",
+        "date":  "1847-52",
+        "aic":  18307
+    },
+    {
+        "id":  201,
+        "file":  "201.jpg",
+        "w":  608,
+        "h":  900,
+        "title":  "Oumayagashi, from the series \"One Hundred Famous Views of Edo (Meisho Edo hyakkei)\"",
+        "artist":  "Utagawa Hiroshige",
+        "date":  "1857",
+        "aic":  18366
+    },
+    {
+        "id":  202,
+        "file":  "202.jpg",
+        "w":  590,
+        "h":  900,
+        "title":  "Descending Geese at Katada (Katada rakugan), from the series \"Eight Views of Omi (Omi hakkei)\"",
+        "artist":  "Utagawa Hiroshige",
+        "date":  "1857",
+        "aic":  18993
+    },
+    {
+        "id":  203,
+        "file":  "203.jpg",
+        "w":  642,
+        "h":  900,
+        "title":  "Japanese white-eye on flowering branch",
+        "artist":  "Utagawa Hiroshige",
+        "date":  "1830s–1840s",
+        "aic":  19018
+    },
+    {
+        "id":  204,
+        "file":  "204.jpg",
+        "w":  843,
+        "h":  573,
+        "title":  "Oystercatchers",
+        "artist":  "Utagawa Hiroshige",
+        "date":  "c. 1833/34",
+        "aic":  19026
+    },
+    {
+        "id":  205,
+        "file":  "205.jpg",
+        "w":  843,
+        "h":  547,
+        "title":  "Kanbara: Evening Snow (Kanbara, yoru no yuki), from the series \"Fifty-three Stations of the Tokaido (Tokaido gojusan tsugi no uchi),\" also known as the Hoeido Tokaido",
+        "artist":  "Utagawa Hiroshige",
+        "date":  "c. 1833/34",
+        "aic":  25613
+    },
+    {
+        "id":  206,
+        "file":  "206.jpg",
+        "w":  601,
+        "h":  900,
+        "title":  "Ryogoku Bridge and the Great Riverbank (Ryogokubashi Okawabata), from the series \"One Hundred Famous Views of Edo (Meisho Edo hyakkei)\"",
+        "artist":  "Utagawa Hiroshige",
+        "date":  "1856",
+        "aic":  34277
+    },
+    {
+        "id":  207,
+        "file":  "207.jpg",
+        "w":  613,
+        "h":  900,
+        "title":  "A Bridge in a Snowy Landscape, from the series \"A Collection of Japanese and Chinese Poems for Recitation (Wakan roeishu)\"",
+        "artist":  "Utagawa Hiroshige",
+        "date":  "c. 1842/43",
+        "aic":  36315
+    },
+    {
+        "id":  208,
+        "file":  "208.jpg",
+        "w":  843,
+        "h":  643,
+        "title":  "A Red Plum Branch against the Summer Moon",
+        "artist":  "Utagawa Hiroshige",
+        "date":  "c. mid–1840s",
+        "aic":  47686
+    },
+    {
+        "id":  209,
+        "file":  "209.jpg",
+        "w":  843,
+        "h":  560,
+        "title":  "Dong Yong (Toei), from the series \"Twenty-four Paragons of Filial Piety as a Mirror for Children (Nijushiko doji kagami)\"",
+        "artist":  "Utagawa Kuniyoshi",
+        "date":  "c. 1843",
+        "aic":  7565
+    },
+    {
+        "id":  210,
+        "file":  "210.jpg",
+        "w":  843,
+        "h":  538,
+        "title":  "Casting a Mantra on the Waves at Kakuta on His Exile to Sado Island (Sashu rukei Kakuta nami daimoku), from the series \"Concise Illustrated Biography of the Great Priest [Nichiren] (Koso go ichidai ryakuzu)\"",
+        "artist":  "Utagawa Kuniyoshi",
+        "date":  "c. 1830/35",
+        "aic":  9845
+    },
+    {
+        "id":  211,
+        "file":  "211.jpg",
+        "w":  843,
+        "h":  578,
+        "title":  "Surugadai, from the series \"Famous Places in the Eastern Capital (Toto Meisho)\"",
+        "artist":  "Utagawa Kuniyoshi",
+        "date":  "c. 1832/33",
+        "aic":  9858
+    },
+    {
+        "id":  212,
+        "file":  "212.jpg",
+        "w":  843,
+        "h":  577,
+        "title":  "Kasumigaseki, from the series \"Famous Places in the Eastern Capital (Toto meisho)\"",
+        "artist":  "Utagawa Kuniyoshi",
+        "date":  "c. 1832/33",
+        "aic":  9861
+    },
+    {
+        "id":  213,
+        "file":  "213.jpg",
+        "w":  625,
+        "h":  900,
+        "title":  "Oe no Chisato, from the series \"One Hundred Poems by One Hundred Poets (Hyakunin isshu no uchi)\"",
+        "artist":  "Utagawa Kuniyoshi",
+        "date":  "c. 1842",
+        "aic":  9869
+    },
+    {
+        "id":  214,
+        "file":  "214.jpg",
+        "w":  843,
+        "h":  589,
+        "title":  "Asakusa Imado, from the series \"Famous Places in the Eastern Capital (Toto Meisho)\"",
+        "artist":  "Utagawa Kuniyoshi",
+        "date":  "c. 1832/33",
+        "aic":  13095
+    },
+    {
+        "id":  215,
+        "file":  "215.jpg",
+        "w":  843,
+        "h":  572,
+        "title":  "View of Mitsumata in the Eastern Capital (Toto Mitsumata no zu), from the series \"Views of the Eastern Capital (Toto no zu)\"",
+        "artist":  "Utagawa Kuniyoshi",
+        "date":  "early 1830s",
+        "aic":  22953
+    },
+    {
+        "id":  216,
+        "file":  "216.jpg",
+        "w":  785,
+        "h":  900,
+        "title":  "Distant View of Mount Fuji at Dawn from Hakone",
+        "artist":  "Utagawa Kuniyoshi",
+        "date":  "c. 1828/30",
+        "aic":  23469
+    },
+    {
+        "id":  217,
+        "file":  "217.jpg",
+        "w":  843,
+        "h":  546,
+        "title":  "In the Snow at Tsukahara on Sado Island (Sashu Tsukahara setchu), from the series \"Concise Illustrated Biography of the Great Priest [Nichiren] (Koso go ichidai ryakuzu)\"",
+        "artist":  "Utagawa Kuniyoshi",
+        "date":  "c. 1830/35",
+        "aic":  24896
+    },
+    {
+        "id":  218,
+        "file":  "218.jpg",
+        "w":  613,
+        "h":  900,
+        "title":  "The Ide Jewel River in Yamashiro Province (Yamashiro kuni Ide no Tamagawa), from an untitled series of the Six Jewel Rivers",
+        "artist":  "Utagawa Kuniyoshi",
+        "date":  "c. 1847/52",
+        "aic":  32955
+    },
+    {
+        "id":  219,
+        "file":  "219.jpg",
+        "w":  610,
+        "h":  900,
+        "title":  "Yang Lin (Kinhyoshi Yorin), from the series \"One Hundred and Eight Heroes of the Popular Water Margin (Tsuzoku Suikoden goketsu hyakuhachinin no hitori)\"",
+        "artist":  "Utagawa Kuniyoshi",
+        "date":  "c. 1827/30",
+        "aic":  32990
+    },
+    {
+        "id":  220,
+        "file":  "220.jpg",
+        "w":  626,
+        "h":  900,
+        "title":  "Wu Song (Seikaken no san Busho), from the series \"One Hundred and Eight Heroes of the [Popular] Water Margin ([Tsuzoku] Suikoden goketsu hyakuhachinin no hitori)\"",
+        "artist":  "Utagawa Kuniyoshi",
+        "date":  "c. 1827/30",
+        "aic":  32991
+    },
+    {
+        "id":  221,
+        "file":  "221.jpg",
+        "w":  843,
+        "h":  541,
+        "title":  "Praying for Rain at Ryozengasaki in Kamakura, 1271 (Bun\u0027ei hachi Kamakura Ryozengasaki ame inoru), from the series \"Concise Illustrated Biography of the Great Priest [Nichiren] (Koso go ichidai ryakuzu)\"",
+        "artist":  "Utagawa Kuniyoshi",
+        "date":  "c. 1830/35",
+        "aic":  47779
+    },
+    {
+        "id":  222,
+        "file":  "222.jpg",
+        "w":  622,
+        "h":  900,
+        "title":  "Yang Zhi (Seimenju Yoshi), from the series \"One Hundred and Eight Heroes of the Popular Water Margin (Tsuzoku Suikoden goketsu hyakuhachinin no hitori)\"",
+        "artist":  "Utagawa Kuniyoshi",
+        "date":  "c. 1827/30",
+        "aic":  49144
+    },
+    {
+        "id":  223,
+        "file":  "223.jpg",
+        "w":  620,
+        "h":  900,
+        "title":  "Wu Yong (Chitasei Goyo), from the series \"One Hundred and Eight Heroes of the Popular Water Margin (Tsuzoku Suikoden goketsu hyakuhachinin no hitori)\"",
+        "artist":  "Utagawa Kuniyoshi",
+        "date":  "c. 1827/30",
+        "aic":  60462
+    },
+    {
+        "id":  224,
+        "file":  "224.jpg",
+        "w":  777,
+        "h":  900,
+        "title":  "Women holding fan in her mouth",
+        "artist":  "Utagawa Kuniyoshi",
+        "date":  "c. early 1830s",
+        "aic":  81323
+    },
+    {
+        "id":  225,
+        "file":  "225.jpg",
+        "w":  627,
+        "h":  900,
+        "title":  "Fujiwara no Okikaze, from the series \"One Hundred Poems by One Hundred Poets (Hyakunin isshu no uchi)\"",
+        "artist":  "Utagawa Kuniyoshi",
+        "date":  "c. 1842",
+        "aic":  105934
+    },
+    {
+        "id":  226,
+        "file":  "226.jpg",
+        "w":  843,
+        "h":  583,
+        "title":  "Wang Pu (Oho), from the series \"Twenty-four Paragons of Filial Piety as a Mirror for Children (Nijushiko doji kagami)\"",
+        "artist":  "Utagawa Kuniyoshi",
+        "date":  "c. 1843",
+        "aic":  111262
+    },
+    {
+        "id":  227,
+        "file":  "227.jpg",
+        "w":  622,
+        "h":  900,
+        "title":  "Chen Da (Chokanko Chintatsu), from the series \"One Hundred and Eight Heroes of the Popular Water Margin (Tsuzoku Suikoden goketsu hyakuhachinin no hitori)\"",
+        "artist":  "Utagawa Kuniyoshi",
+        "date":  "c. 1827/30",
+        "aic":  130714
+    },
+    {
+        "id":  228,
+        "file":  "228.jpg",
+        "w":  614,
+        "h":  900,
+        "title":  "Inue Shinbyoe Masashi, from the series \"Eight Hundred Heroes of the Japanese Water Margin (Honcho Suikoden goyu happyakunin no hitori)\"",
+        "artist":  "Utagawa Kuniyoshi",
+        "date":  "c. 1836",
+        "aic":  149133
+    },
+    {
+        "id":  229,
+        "file":  "229.jpg",
+        "w":  599,
+        "h":  900,
+        "title":  "Kagero: Akushichibei Kagekiyo, from the series \"Japanese and Chinese Comparisons for the Chapters of Genji (Wakan nazorae Genji)\"",
+        "artist":  "Utagawa Kuniyoshi",
+        "date":  "1855",
+        "aic":  223514
+    },
+    {
+        "id":  230,
+        "file":  "230.jpg",
+        "w":  610,
+        "h":  900,
+        "title":  "Suetsumuhana: Mukan-no-tayu Atsumori, from the series \"Japanese and Chinese Comparisons for the Chapters of Genji (Wakan nazorae Genji)\"",
+        "artist":  "Utagawa Kuniyoshi",
+        "date":  "1855",
+        "aic":  236198
+    },
+    {
+        "id":  231,
+        "file":  "231.jpg",
+        "w":  844,
+        "h":  665,
+        "title":  "The Poet\u0027s Garden",
+        "artist":  "Vincent van Gogh",
+        "date":  "1888",
+        "aic":  14586
+    },
+    {
+        "id":  232,
+        "file":  "232.jpg",
+        "w":  712,
+        "h":  900,
+        "title":  "Madame Roulin Rocking the Cradle (La berceuse)",
+        "artist":  "Vincent van Gogh",
+        "date":  "1889",
+        "aic":  27949
+    },
+    {
+        "id":  233,
+        "file":  "233.jpg",
+        "w":  843,
+        "h":  660,
+        "title":  "The Bedroom",
+        "artist":  "Vincent van Gogh",
+        "date":  "1889",
+        "aic":  28560
+    },
+    {
+        "id":  234,
+        "file":  "234.jpg",
+        "w":  843,
+        "h":  703,
+        "title":  "Fishing in Spring, the Pont de Clichy (Asnières)",
+        "artist":  "Vincent van Gogh",
+        "date":  "1887",
+        "aic":  109314
+    },
+    {
+        "id":  235,
+        "file":  "235.jpg",
+        "w":  843,
+        "h":  592,
+        "title":  "After the Hurricane, Bahamas",
+        "artist":  "Winslow Homer",
+        "date":  "1899",
+        "aic":  16776
+    },
+    {
+        "id":  236,
+        "file":  "236.jpg",
+        "w":  843,
+        "h":  590,
+        "title":  "Campfire, Adirondacks",
+        "artist":  "Winslow Homer",
+        "date":  "c. 1892",
+        "aic":  16782
+    },
+    {
+        "id":  237,
+        "file":  "237.jpg",
+        "w":  843,
+        "h":  585,
+        "title":  "The Outlook, Maine Coast",
+        "artist":  "Winslow Homer",
+        "date":  "1894",
+        "aic":  16812
+    },
+    {
+        "id":  238,
+        "file":  "238.jpg",
+        "w":  843,
+        "h":  588,
+        "title":  "Prout\u0027s Neck, Breaking Wave",
+        "artist":  "Winslow Homer",
+        "date":  "1887",
+        "aic":  16818
+    },
+    {
+        "id":  239,
+        "file":  "239.jpg",
+        "w":  843,
+        "h":  587,
+        "title":  "The Water Fan",
+        "artist":  "Winslow Homer",
+        "date":  "1898/99",
+        "aic":  38666
+    },
+    {
+        "id":  240,
+        "file":  "240.jpg",
+        "w":  843,
+        "h":  514,
+        "title":  "Croquet Scene",
+        "artist":  "Winslow Homer",
+        "date":  "1866",
+        "aic":  44018
+    },
+    {
+        "id":  241,
+        "file":  "241.jpg",
+        "w":  843,
+        "h":  561,
+        "title":  "Life-Size Black Bass",
+        "artist":  "Winslow Homer",
+        "date":  "1904",
+        "aic":  189152
+    }
+]
